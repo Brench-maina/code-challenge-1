@@ -13,8 +13,8 @@ function calculateChaiIngredients(numberofCups){
 }
 // prompt the user 
  const input = prompt("Karibu! How many cups of chai Bora would you like to make?");
-// Convert the input to a number
 const numberofCups = parseInt(input);
+
 // Check if the input is a valid number
 if (isNaN(numberofCups) || numberofCups <= 0) {
     console.log("Please enter a valid number of cups.");
