@@ -14,7 +14,7 @@ function estimateTransactionFee(amountToSend){
     console.log(`Sending KES ${amountToSend}:`);
     console.log(`Calculated Transaction Fee: KES ${fee}`);
     console.log(`Total amount to be debited: KES ${totalAmount}`);
-    console.log(`\nSend Money Securely!`);
+    console.log(`Send Money Securely!`);
 }
 // prompt the user
 const input = prompt("Unatuma Ngapi?(KES)");
