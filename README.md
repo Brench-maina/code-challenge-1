@@ -16,10 +16,10 @@ Calculates fare based on distance in kilometers. Users are prompted to input the
 **File:** `fee.js`
 Calculates a transaction fee of 1.5% with a minimum of KES 10 and a maximum of KES 70. Users are prompted to enter the amount, which is validated, and the total amount and fee are displayed.
 
-Project Setup
+## Project Setup
 Clone the repository
 Open each JavaScript file with a browser or environment that supports the prompt()
 View results in the console.  
 
-Author
+## Author
 Brench Maina
