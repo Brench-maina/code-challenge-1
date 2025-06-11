@@ -1,8 +1,8 @@
 # code-challenge-1
 
-Welcome to my JavaScript code challenge repository! Each challenge is in its folder with a JavaScript file containing the solution.
+Welcome to my JavaScript code challenge repository! Each challenge is located in its  folder, accompanied by a JavaScript file containing the solution.
 
-## Challenges
+## Description
 
 ### 1. Chai Bora Ingredient Calculator
 **File:** `chai.js`
@@ -16,4 +16,10 @@ Calculates fare based on distance in kilometers. Users are prompted to input the
 **File:** `fee.js`
 Calculates a transaction fee of 1.5% with a minimum of KES 10 and a maximum of KES 70. Users are prompted to enter the amount, which is validated, and the total amount and fee are displayed.
 
-Please feel free to explore!
+Project Setup
+Clone the repository
+Open each JavaScript file with a browser or environment that supports the prompt()
+View results in the console.  
+
+Author
+Brench Maina
