@@ -6,7 +6,7 @@ Welcome to my JavaScript code challenge repository! Each challenge is located in
 
 ### 1. Chai Bora Ingredient Calculator
 **File:** `chai.js`
-Calculates ingredients for a specified number of chai cups. It prompts for the number of cups, validates input, and displays required amounts of water, milk, tea leaves, and sugar.
+Calculates ingredients for a specified number of chai cups. It prompts the user for the number of cups, validates the input, and displays the required amounts of water, milk, tea leaves, and sugar.
 
 ### 2. Boda Boda Ride Fare Estimator
 **File:** `fare.js`
